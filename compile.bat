@@ -1,0 +1,2 @@
+javac invaders.java
+pause

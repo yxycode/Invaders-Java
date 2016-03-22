@@ -1,0 +1,2 @@
+appletviewer invaders.html
+pause
